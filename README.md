@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is Tuğkan Boz.
+
+
+
 <!--
 **tugkanboz/TugkanBoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
